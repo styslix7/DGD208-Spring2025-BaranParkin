@@ -8,8 +8,6 @@
 
 A repository for the DGD 208 lecture.
 
-# Description
-
 # License
 
 This repository uses The MIT License (MIT)
