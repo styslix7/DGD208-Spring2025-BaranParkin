@@ -21,9 +21,9 @@ This repository uses The MIT License (MIT)
 
 # Version History
 
-All of the version history is [here](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/VersionLog.md).
+All of the version history is [here](https://github.com/styslix7/DGD208-Spring2025-BaranParkin/blob/main/ReadMe/VersionLog.md).
 
 # Installation
 
 ```bash
-git clone https://github.com/styslix7/Stellar-Deception
+git clone https://github.com/styslix7/DGD208-Spring2025-BaranParkin
