@@ -16,8 +16,8 @@ This repository uses The MIT License (MIT)
 
 # Current Version
 
-* 0.1 | 2024-04-29
-    * Repository was created with an empty C# file and the personal ReadMe folder.
+* 1.0.0 | 2024-06-01
+    * Uploaded all of the finished work.
 
 # Version History
 
